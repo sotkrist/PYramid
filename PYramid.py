@@ -2,6 +2,7 @@
 from collections import OrderedDict
 from os import system, name
 from colored import fg, attr
+import sys
 from time import sleep
 import pyautogui
 import pyfiglet
@@ -55,7 +56,7 @@ def Pyramid():
         clear()
         Calculator()
     elif command_index == "exit":
-        exit(1)
+        sys.exit(1)
 
 
 def countdown(t):
