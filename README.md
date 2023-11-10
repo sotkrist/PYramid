@@ -27,4 +27,4 @@ To return to the menu, hit Enter after the command finished.
 
 If you have any further questions, or suggestions please contact with me on discord(R2#8184).
 
-Copyright © 2022- R2 systems co-operations
+Copyright © 2022- Astro Solutions
