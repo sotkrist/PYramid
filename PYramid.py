@@ -1,4 +1,4 @@
-# PYramid was developed by R2 systems --- Copyright © 2022- R2 systems co-operations --- 22/05/2022
+# PYramid was developed by Astro Solutions --- Copyright © 2022- Astro Solutions --- 22/05/2022
 from collections import OrderedDict
 from os import system, name
 from colored import fg, attr
